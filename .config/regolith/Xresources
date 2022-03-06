@@ -1,0 +1,12 @@
+! i3-wm.bar.position: top
+i3-wm.workspace.layout: tabbed
+i3xrocks.action.time: /usr/bin/gnome-calendar
+i3-wm.program.1: alttab
+i3-wm.program.2: insync start
+i3-wm.program.sleep: 'gnome-screenshot -a -c'
+i3xrocks.action.cpu-usage: '/home/paul/bin/term-htop.sh'
+i3-wm.program.notifications: /home/paul/projects/regolith-rofication/rofication-daemon
+i3xrocks.rofication.apps.blocked:Microsoft Teams - Preview,pasystray,Spotify
+i3xrocks.rofication.apps.single:VLC media player,Spotify
+i3xrocks.rofication.apps.transient:notify-send,VLC media player,Spotify
+
