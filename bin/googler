@@ -1,0 +1,3 @@
+#!/bin/sh
+/usr/bin/tilix -e /home/paul/projects/googler/googler $@
+
